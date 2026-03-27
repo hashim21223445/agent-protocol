@@ -45,9 +45,9 @@
   },
   "devDependencies": {
     "@readme/openapi-parser": "^2.5.0",
-    "eslint": "8.45.0",
+    "eslint": "9.0.0",
     "eslint-config-next": "13.4.12",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.6"
   }
